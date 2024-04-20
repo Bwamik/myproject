@@ -1,0 +1,28 @@
+{
+    // Editor settings
+    "editor.tabSize": 2, // Sets the number of spaces for each tab
+    "editor.wordWrap": "on", // Enables word wrapping
+    "editor.formatOnSave": true, // Automatically formats code on save
+    "editor.defaultFormatter": "esbenp.prettier-vscode", // Sets Prettier as the default code formatter
+    "editor.fontFamily": "Consolas, 'Courier New', monospace, code", // Sets the font family for the editor
+    "editor.fontSize": 14, // Sets the font size for the editor
+    "editor.cursorBlinking": "smooth", // Sets cursor blinking to a smooth animation
+    "editor.cursorSmoothCaretAnimation": "on", // Enables smooth caret animation
+    "editor.cursorStyle": "line-thin", // Sets cursor style to a thin line
+    "editor.lineHeight": 24, // Sets the line height
+    "editor.minimap.enabled": false, // Disables the minimap
+  
+    // Prettier settings
+    "prettier.semi": true, // Adds semicolons at the end of statements
+    "prettier.singleQuote": true, // Uses single quotes for strings
+    "prettier.trailingComma": "all", // Adds trailing commas wherever possible
+    "prettier.jsxSingleQuote": true, // Uses single quotes for JSX attributes
+    "prettier.printWidth": 80, // Sets the maximum line width
+    "prettier.tabWidth": 2, // Sets the tab width
+
+    
+    // JavaScript settings
+    "javascript.format.enable": false, // Disables built-in JavaScript formatting (use Prettier instead)
+    "javascript.validate.enable": false, // Disables built-in JavaScript validation (use ESLint instead)
+}
+  
